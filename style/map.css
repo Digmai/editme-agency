@@ -1,0 +1,13 @@
+.map {
+  margin-top: 150px;
+
+  position: relative;
+}
+.map__img {
+  background-repeat: no-repeat;
+
+  background-position: center;
+  background-size: cover;
+
+  max-width: 100%;
+}
